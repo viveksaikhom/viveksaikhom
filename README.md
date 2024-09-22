@@ -16,7 +16,7 @@ I'm currently learning and working on projects involving:
 - 🐍 Python
 - 🌐 JavaScript (React, Node.js)
 - 📱 Mobile App Development (Kotlin)
-- 🎨 Frontend Technologies (HTML, CSS)
+- 🎨 Frontend Development (HTML, CSS)
 
 ## Collaboration
 
