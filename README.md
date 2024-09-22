@@ -27,7 +27,7 @@ I'm open to collaborating on interesting projects. If you have an exciting idea 
 You can connect with me through:
 
 - 📧 Email: viveksaikhom@gmail.com
-- www.viveksaikhom.com/sites (don't click)
+- www.viveksaikhom.com
 
 <!---
 viveksaikhom/viveksaikhom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
